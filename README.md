@@ -20,8 +20,6 @@ Multiple AI spin rewriting methods: dramatize, formalize, summarize, etc.
 
 Human-in-the-loop: User can provide a 1-5 rating at any time.
 
-Video: https://drive.google.com/file/d/1XCE1wumc7cOlAHQUdiNrZ-il3dP2igqb/view?usp=sharing
-
 # Folder Structure
 
 book-publication-automation/
