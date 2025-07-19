@@ -36,8 +36,7 @@ class AIRewriter:
         # Configure Gemini
         api_key = os.getenv('GOOGLE_API_KEY')
         if not api_key:
-            # Fallback to hardcoded key (not recommended for production)
-            genai.configure(api_key="AIzaSyBKJoz0rbdnWkG9sKnFj32x5f5oZhA2I-o")
+            genai.configure(api_key="your-api-key-here")
         else:
             genai.configure(api_key=api_key)
 
