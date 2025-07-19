@@ -1,7 +1,7 @@
-Book Publication Automation
+# Book Publication Automation
 This repository contains a reinforcement learning-driven intelligent scraping and rewriting pipeline for automating the extraction of textual content from public domain websites like Wikisource and refining it with an LLM. The system adapts its scraping strategy dynamically based on the complexity of the target page, improving its efficiency and accuracy over time.
 
-Key Features
+# Key Features
 Reinforcement Learning Agent: Used Epsilon Greedy with (E=0.2).
 
 Multiple Scraping Techniques: Includes options such as:
@@ -22,7 +22,7 @@ Human-in-the-loop: User can provide a 1-5 rating at any time.
 
 Video: https://drive.google.com/file/d/1XCE1wumc7cOlAHQUdiNrZ-il3dP2igqb/view?usp=sharing
 
-Folder Structure
+# Folder Structure
 
 book-publication-automation/
 ├── data/                    # Stores Q-table and other intermediate data
